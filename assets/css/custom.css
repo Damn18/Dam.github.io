@@ -1,0 +1,45 @@
+/* Reusable utility: remove bullets + left indent */
+ul.no-bullets {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+ul.no-bullets > li {
+  list-style: none;
+}
+
+/* Section-level bullet removal (in case you don't add .no-bullets everywhere) */
+#education ul,
+#experience ul,
+#skills ul,
+#volunteering ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+#education li,
+#experience li,
+#skills li,
+#volunteering li {
+  list-style: none;
+}
+
+
+/* Left-align only the Languages card */
+#skills .skills-languages,
+#skills .skills-languages h3,
+#skills .skills-languages ul,
+#skills .skills-languages li {
+  text-align: left;
+}
+
+/* Left-align only the Coding card */
+#skills .skills-coding,
+#skills .skills-coding h3,
+#skills .skills-coding ul,
+#skills .skills-coding li {
+  text-align: left;
+}
+
+
