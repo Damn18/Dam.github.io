@@ -17,8 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I have a hybrid educational background bridging international relations and computer engineering, with statistics as the common thread. My experience spans the application of statistical methods in social sciences and economics, as well as in statistical modeling and machine learning.
+I have a hybrid educational background bridging international relations and computer engineering, with statistics as the common thread. My experience spans the study and application of statistical methods, modeling and machine learning.
 
-During my bachelor’s, I focused on applying statistical techniques to research and industry contexts, particularly in market analysis. My master’s program built on this foundation with a focus on computer engineering, data science, and big data. I have gained hands-on experience with machine learning, deep learning, high-performance computing, big data management, and advanced statistical models.
+During my bachelor’s, I focused on applying statistical techniques to research and industry contexts, while during my master's I focused on computer engineering, data science, and big data infrastructures. I have gained hands-on experience with software development, machine learning, deep learning, high-performance computing, and big data management.
 
-Currently, I am pursuing opportunities in backend development, and I am actively enhancing my skills in C++ and C#, with a focus on optimizing cloud and edge computing systems, and in AI agents setting. 
+Currently, I am pursuing opportunities in backend development, and I am actively enhancing my skills in C++ and C#, with a focus on optimizing cloud and edge computing systems. 
