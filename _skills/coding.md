@@ -10,7 +10,7 @@ text: |
  
   **Developer Tools**
 
-  Dask, Kafka, Docker, Apptainer/Singularity, HPC environment (Slurm), Openrouter
+  Git, Github, Gitlab, VSC, Cursor, Dask, Kafka, Docker, Apptainer/Singularity, REST APIs, Linux/Unix environment, HPC environment (Slurm), Openrouter
 
   **Databases**
 
@@ -24,5 +24,5 @@ text: |
  
   **Cloud**
 
-  AWS, Microsoft Azure
+  GCP, AWS, Microsoft Azure
 ---
